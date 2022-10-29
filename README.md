@@ -1,6 +1,6 @@
 # snake_game
 
-A new Flutter project.
+https://snakegame-f0ff8.web.app/#/
 
 ## Getting Started
 
